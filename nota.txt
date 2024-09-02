@@ -1,0 +1,27 @@
+1. capa de servicio (service.js):
+    + buen manejo y uso de clases
+    + excelente manejo de funciones asincronas
+    ! para evitar null pointers al obtener propiedades anidades puedes usar un null safety character.location?.name
+2.  manejo HTML y Acceso al DOM (index.js):
+    + muy buen dominio de acceso al DOM
+    + buen manejo de selectores para acceder a elementos del DOM
+    + buen manejo de errores
+    - te falto renderizar las cards con los personajes  - 1 puntos
+3.  manejo de eventos (index.js)
+    - no esta el listener de los personajes, se llama la funcion pero no se crea -1 punto
+4.  manejo de estilos
+    + muy bien por el manejo de variables CSS
+    + buen maquetado con flexbox
+    - no se renderiza ningun elemento - 1 punto
+
+A tener en cuenta, el proyecto debe compilar siempre, faltan puntos por mejorar
+
+Calificacion
+  1. Estilos y diseño HTML y CSS deacuerdo al figma -> NO CUMPLE (1 punto) - no cumple requerimiento
+  2. Listado de personajes con toda la información solicitada esto incluye indicador de Alive & Dead con el estilo respectivo -> NO CUMPLE (1 punto) - no cumple requerimiento
+  3. Evento de click y mensaje informativo ´Hola soy (nombre personaje)´ -> NO CUMPLE (0 puntos) - no cumple requerimiento
+
+Nota: 2
+
+
+ejercicio puntual: 5
